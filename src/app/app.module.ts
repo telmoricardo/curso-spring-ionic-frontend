@@ -18,6 +18,7 @@ import { ProdutoService } from '../services/domain/produto.service';
 import { CartService } from '../services/domain/cart.service';
 import { PedidoService } from '../services/domain/pedido.service';
 
+
 @NgModule({
   declarations: [
     MyApp
